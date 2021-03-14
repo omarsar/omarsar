@@ -8,7 +8,7 @@ I am Elvis. I do machine learning research and open-source.
 
 🔹 I am also an avid writer on https://elvissaravia.substack.com/.
 
-🔹 Best way to reach to me is by following me on Twitter and sending me a DM.
+🔹 Best way to reach to me is by following me on Twitter and sending me a DM. 👇🏻
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/omarsar0?label=Follow&style=social)](https://twitter.com/omarsar0)
