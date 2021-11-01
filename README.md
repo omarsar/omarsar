@@ -4,7 +4,7 @@ I am Elvis. I do machine learning research and open-source.
 
 🔹 I regularly share resources, takes, research, and other fun machine learning and computer science related stuff on [Twitter](https://twitter.com/omarsar0).
 
-🔹 I am currently at Facebook AI working on [Papers with Code](https://paperswithcode.com/).
+🔹 I am currently at Meta AI working on [Papers with Code](https://paperswithcode.com/).
 
 🔹 I am also an avid writer on https://elvissaravia.substack.com/.
 
