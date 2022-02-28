@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I am Elvis. I do machine learning research and open-source. 
 
