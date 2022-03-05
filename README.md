@@ -6,8 +6,6 @@ I am Elvis. I do machine learning research and open-source.
 
 🔹 I am currently at Meta AI working on [Papers with Code](https://paperswithcode.com/).
 
-🔹 I am also an avid writer on https://elvissaravia.substack.com/.
-
 🔹 Best way to reach me is on [Twitter](https://twitter.com/omarsar0) or [LinkedIn](https://www.linkedin.com/in/omarsar/).
 
 ---
