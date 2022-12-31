@@ -1,8 +1,10 @@
 ### Hi 👋
 
-I am Elvis. I do machine learning & NLP research, plus a lot of open-source and educational content.
+I am Elvis. Doing work in machine learning & NLP research:
 
-🔹 I am currently at Meta working with [Papers with Code](https://paperswithcode.com/) and [Meta AI](https://ai.facebook.com/).
+🔹 Now building [DAIR.AI](https://github.com/dair-ai)
+
+🔹 Previously at Meta AI working with teams at Papers with Code, PyTorch, and FAIR.
 
 🔹 I share resources, research summaries, and other fun machine learning and computer science related stuff on [Twitter](https://twitter.com/omarsar0). A lot of my work is open [here](https://github.com/dair-ai).
 
