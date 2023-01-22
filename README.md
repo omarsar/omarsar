@@ -9,5 +9,3 @@ I am Elvis. Doing work in machine learning & NLP research:
 🔹 Best way to reach me is on [Twitter](https://twitter.com/omarsar0) or [LinkedIn](https://www.linkedin.com/in/omarsar/).
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/omarsar0?label=Follow&style=social)](https://twitter.com/omarsar0)
-
