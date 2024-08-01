@@ -10,6 +10,6 @@ I am Elvis.
 
 🔹 I provide consulting services to the top AI companies around go-to-market, social media, product, research, and growth strategies.
 
-🔹 Best way to reach me is on [Twitter](https://twitter.com/omarsar0) or [LinkedIn](https://www.linkedin.com/in/omarsar/). My linktree: linktr.ee/elvissaravia
+🔹 Best way to reach me is on [Twitter](https://twitter.com/omarsar0) or [LinkedIn](https://www.linkedin.com/in/omarsar/). My linktree: [linktr.ee/elvissaravia](linktr.ee/elvissaravia)
 
 ---
